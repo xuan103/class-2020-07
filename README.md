@@ -4,8 +4,6 @@
 
 Welcome to the class-2020-07 wiki!
 
-* * * 
-
 - [0703_Collaboration](https://github.com/xuan103/class-2020-07/wiki/0703_Collaboration)
 
 - [0731_OpenData](https://github.com/xuan103/class-2020-07/wiki/0731_OpenData)
@@ -29,3 +27,5 @@ Welcome to the class-2020-07 wiki!
 - [Hadoop](https://github.com/xuan103/class-2020-07/wiki/Hadoop)
 
 - [picture](https://docs.google.com/presentation/d/1lRImSeSoKqBV68Y-TpE_s_rsmElz_JbAiFWU9J16Byw/edit?usp=sharing)
+
+* * *
