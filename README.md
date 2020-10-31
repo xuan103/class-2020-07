@@ -1,5 +1,7 @@
 # class-2020-07
 
+* * *
+
 Welcome to the class-2020-07 wiki!
 
 * * * 
